@@ -1,0 +1,29 @@
+header {
+  width: 100vw;
+  height: 100vh;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+h1 {
+  color: #f6f6f6;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 6em;
+  text-align: center;
+  text-shadow: 4px 6px 0px #898999;
+  text-transform: uppercase;
+  margin-bottom: 0px;
+}
+
+p {
+  color: #f6f6f6;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5em;
+  text-align: center;
+  text-shadow: 2px 3px 0px #898999;
+  text-transform: uppercase;
+  margin-top: 0px;
+}

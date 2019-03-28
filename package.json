@@ -14,6 +14,7 @@
   },
   "dependencies": {
     "gatsby": "^2.3.3",
+    "lax.js": "^1.2.0",
     "react": "^16.8.5",
     "react-dom": "^16.8.5"
   },
