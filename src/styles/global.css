@@ -4,3 +4,13 @@ body {
   background: linear-gradient(to right, #834d9b, #d04ed6);
   margin: 0px;
 }
+
+.container {
+  width: 100vw;
+  height: 100vh;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}

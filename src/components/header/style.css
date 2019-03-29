@@ -1,14 +1,4 @@
-header {
-  width: 100vw;
-  height: 100vh;
-
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: column;
-}
-
-h1 {
+.header--title {
   color: #f6f6f6;
   font-family: 'Montserrat', sans-serif;
   font-size: 6em;
@@ -18,7 +8,7 @@ h1 {
   margin-bottom: 0px;
 }
 
-p {
+.header--subtitle {
   color: #f6f6f6;
   font-family: 'Montserrat', sans-serif;
   font-size: 2.5em;

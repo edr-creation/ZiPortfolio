@@ -2,6 +2,7 @@ import React, { Component } from "react"
 import lax from "lax.js"
 
 import Header from "../components/header"
+import Who from "../components/who"
 
 import "../styles/global.css"
 
@@ -25,6 +26,7 @@ class Index extends Component {
     return (
       <div>
         <Header />
+        <Who />
       </div>
     )
   }
